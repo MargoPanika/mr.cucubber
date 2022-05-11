@@ -1,0 +1,25 @@
+.body{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #fffd9e;
+}
+.main{
+   color: blueviolet;
+   font-family: Abril Fatface;
+   font-size: 300px;
+}
+.pa{
+   font-size: 50px;
+}
+.img{
+   width: 300px;
+
+
+}
+.form{
+   margin-bottom: 70px;
+}
+.contact{
+   color: blueviolet;
+   font-family: Abril Fatface;
+   font-size: 40px;
+}
